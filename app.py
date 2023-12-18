@@ -1,4 +1,4 @@
-User
+
 import streamlit as st
 from textblob import TextBlob
 from pattern.en import pluralize, singularize, comparative, superlative
