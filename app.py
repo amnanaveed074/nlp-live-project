@@ -1,6 +1,8 @@
 import streamlit as st
-# from textblob import TextBlob
-from pattern.en import pluralize, singularize, comparative, superlative
+import TextBlob
+from textblob 
+import pluralize, singularize, comparative, superlative
+from pattern.en
 import streamlit.components.v1 as components
 
 def main():
