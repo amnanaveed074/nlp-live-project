@@ -1,5 +1,5 @@
 import streamlit as st
-import TextBlob
+import textBlob
  #from textblob 
 import pluralize, singularize, comparative, superlative
 #from pattern.en
