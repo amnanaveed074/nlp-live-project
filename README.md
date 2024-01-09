@@ -1,4 +1,4 @@
-# Text-summarizer
+# Text-Tokenizer
 # How to run
 
 1 install the libraries which is given in requirements.txt folder
